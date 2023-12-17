@@ -1,0 +1,1 @@
+在 `Spring Boot` 项目中，`dto` 目录通常用于存放数据传输对象 `Data Tansfer Object, DTO`。`DTO` 是用于在不同层之间传输数据的对象。
